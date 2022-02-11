@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="493.0" y="0.0">tema1.View</node>
+    <node x="244.0" y="867.0">tema1.Polinom</node>
+    <node x="83.0" y="531.0">tema1.Main</node>
+    <node x="49.0" y="414.0">tema1.Controller</node>
+    <node x="18.0" y="640.0">tema1.Operatii</node>
+    <node x="0.0" y="937.0">tema1.Monom</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="tema1.Main" target="tema1.View">
+      <point x="-1.0996542079607892" y="-4.877577331310505" />
+      <point x="-1.099654207960782" y="-4.877577331310505" />
+    </edge>
+    <edge source="tema1.Main" target="tema1.Controller">
+      <point x="-4.678008594753713" y="1.765286262171216" />
+      <point x="-4.678008594753706" y="1.7652862621712018" />
+    </edge>
+    <edge source="tema1.View" target="tema1.Polinom">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="tema1.View" target="tema1.Operatii">
+      <point x="2.435403700807001" y="4.36678472266442" />
+      <point x="2.4354037008070293" y="4.36678472266442" />
+    </edge>
+    <edge source="tema1.Controller" target="tema1.Operatii">
+      <point x="4.982606287585298" y="-0.41669483187990863" />
+      <point x="4.982606287585298" y="-0.41669483187990863" />
+    </edge>
+    <edge source="tema1.Operatii" target="tema1.Polinom">
+      <point x="3.618105364013644" y="-3.4509873333432637" />
+      <point x="3.618105364013644" y="-3.450987333343278" />
+    </edge>
+    <edge source="tema1.Operatii" target="tema1.Monom">
+      <point x="4.945158706910497" y="0.738515648762629" />
+      <point x="4.9451587069105045" y="0.7385156487626432" />
+    </edge>
+    <edge source="tema1.Polinom" target="tema1.Monom">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="tema1.Controller" target="tema1.View">
+      <point x="-0.06029246205280003" y="-4.999636468686447" />
+      <point x="-0.060292462052814244" y="-4.999636468686447" />
+    </edge>
+    <edge source="tema1.Main" target="tema1.Operatii">
+      <point x="4.977922599329432" y="0.469346987936774" />
+      <point x="4.977922599329432" y="0.469346987936774" />
+    </edge>
+  </edges>
+  <settings layout="Orthogonal" zoom="0.551948051948052" x="410.5" y="606.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
